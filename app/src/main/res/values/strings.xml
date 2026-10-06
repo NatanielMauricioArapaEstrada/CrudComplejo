@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CRUD de complejos</string>
+    <string name="title_main">Números complejos con Room</string>
+    <string name="subtitle_main">Registra un número y observa su reflejo respecto al eje real</string>
+    <string name="complex_data">Datos del número complejo</string>
+    <string name="id_hint">ID (0 para generar automáticamente)</string>
+    <string name="real_hint">Parte real (pr)</string>
+    <string name="imaginary_hint">Parte imaginaria (pi)</string>
+    <string name="reflection_explanation">Al guardar se calcula: pr_r = pr y pr_i = -pi.</string>
+    <string name="add_complex">Agregar número</string>
+    <string name="list_complexes">Listar números</string>
+    <string name="update_complex">Actualizar número</string>
+    <string name="delete_complex">Borrar número</string>
+    <string name="table_title">Tabla de números complejos</string>
+    <string name="table_help">Toca el ID, pr o pi del número para ver su gráfica.</string>
+    <string name="empty_table">Aún no hay números guardados.</string>
+    <string name="graph_title">Plano cartesiano</string>
+    <string name="graph_subtitle">Número complejo y su reflejo</string>
+    <string name="back">Volver</string>
+    <string name="graph_legend_original">Azul: número original</string>
+    <string name="graph_legend_reflected">Rojo: número reflejado</string>
+</resources>
